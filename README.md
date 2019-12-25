@@ -71,7 +71,7 @@ FizzBuzz
 
 ### Autor
 
-JCGuerra
+JCGuerra.
 
 ### Version
 
